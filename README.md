@@ -2,7 +2,7 @@
 
 Welcome to **Ollama Router**, an open-source Python project that demonstrates how to build a tool-enabled LLM router using [Ollama](https://ollama.com/) and custom Python functions. This project shows how to connect LLMs to external tools (like weather and email), route user queries to the right tool, and maintain a secure, controlled workflow — all running locally and fully open source.
 
----
+
 
 ## 🚀 Features
 
