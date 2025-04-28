@@ -12,7 +12,8 @@ Welcome to **Ollama Router**, an open-source Python project that demonstrates ho
 - **Security-Focused Prompting**: Enforces strict tool activation protocols and input validation.
 - **Extensible**: Easily add new tools or models.
 
----
+
+
 
 ## 📂 Project Structure
 
@@ -24,7 +25,7 @@ Welcome to **Ollama Router**, an open-source Python project that demonstrates ho
 - System prompt for secure, controlled tool access
 - Ollama LLM chat integration and routing logic
 
----
+
 
 ## 🛠️ Requirements
 
